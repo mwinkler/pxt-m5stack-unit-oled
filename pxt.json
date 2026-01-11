@@ -1,7 +1,7 @@
 {
     "name": "m5stack-unit-oled",
     "version": "1.0.0",
-    "description": "M5Stack OLED Unit",
+    "description": "M5Stack OLED Unit (SH1107)",
     "license": "MIT",
     "dependencies": {
         "core": "*"
